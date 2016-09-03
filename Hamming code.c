@@ -1,3 +1,7 @@
+/*Problem defination: Write a program to find Hamming code of given data bits. 
+If one of the Hamming code bit is corrupted then find error bit location and correct error accordingly*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
